@@ -1,4 +1,4 @@
-#Thu Mar 22 14:39:13 WIB 2018
-base.0=/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Mar 22 15:29:38 WIB 2018
+base.0=/home/vb/Projects/motionReact/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/vb/Projects/motionReact/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

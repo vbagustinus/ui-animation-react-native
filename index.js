@@ -1,3 +1,4 @@
 import { AppRegistry } from 'react-native';
 import App from './App';
-AppRegistry.registerComponent('uiinteractionsdetailview', () => App);
+
+AppRegistry.registerComponent('motionReact', () => App);

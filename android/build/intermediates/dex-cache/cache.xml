@@ -3,30 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_dd8b06a5f360fa1ccb7e2ad4ae6196413cb608f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_7a78dc3e5c69cbe0ef784b2da40b955b71bb5fed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_847e6b48186ce9620714591c0681a32bf1cfa9a4.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a6e1aa4f0063500584b789d7dd56993fcf5c9474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_261c76599fabbf7da6fc93ad1369726e270a4023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_be3d696597eeec8f9ead766770d23b52f119c377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4eb1e0cccfb0c1fc2fec9e6badfff56d40ae4510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_35b49efeb7cf42b6d1621e42428d4e82b9b9d896.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +53,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_09f5bd46c8de57484dbb705cf0911fda619f7896.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_09f5bd46c8de57484dbb705cf0911fda619f7896.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +62,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1f8bf542ccafff7dd2351c7f490045ef452b46bb.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1f8bf542ccafff7dd2351c7f490045ef452b46bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a034cdc68efd4fe2493fe2d8d7796806963f9e91.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,25 +80,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_40dcc08f67e56d70d6d64e29725c72c7a9c593e1.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_40dcc08f67e56d70d6d64e29725c72c7a9c593e1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0a949ef2adbeed2dde2e68bd135492544d32f8ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_67adfbea8e382874d905c73c005c2dbf4f9f4094.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_40c89e6c628632c9450e12bedb4e5cd3702bbca2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,16 +98,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8d053b41d09eaedbeed5c64296755898cf082ccb.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8d053b41d09eaedbeed5c64296755898cf082ccb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e7be58843a0e87c406440cc9baac878461aff06f.jar" />
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.2_01d1bad1a9247ef48cd747b5e45c6c6599163c72.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,43 +116,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c898bd3624f3d8368ef524f6051d59d2c0eff0bd.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c898bd3624f3d8368ef524f6051d59d2c0eff0bd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f1ca6fde0c3c3efed39507ca6e740d629722d724.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_5b14fbf8306fe724b2c96ce7d8529c0953a7391b.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3fec43d8527cae54e528f6ce1f6a5a842b191530.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_549edd08e65c59fc190f4b668889d5def835b68a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8224295e7552bc40d73b19a0c91724dd8bf9b157.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5a91fbaf392c7f25af37bdec1bb4ff1eb9925a9e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,34 +143,34 @@
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_62c3bf78ab7b9bdc0d22d5b9fc112887dc68a91d.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_62c3bf78ab7b9bdc0d22d5b9fc112887dc68a91d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/motionReact/react-native-vector-icons/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7bedd795568b8b5ea0f0e47040651841b1801f4c.jar" />
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/motionReact-react-native-vector-icons-unspecified_9ce0fbf42d1e9ba4fa4360fc42a47d6a20262fe1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_83363237ece5c363936a3463239315098a6b8895.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_5c07298022c508c52a780365a3195c87c9ca92cf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a6eb1321c3048473c7eae301e606fc959902d477.jar" />
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_c91dea54806bb073a0d50acd3997c40d5f8f231e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +179,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_237d7bd44bbac5fa8cf87d2830dc08e493746791.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_237d7bd44bbac5fa8cf87d2830dc08e493746791.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,7 +188,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/vb/Projects/ui-interactions-detail-view/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_1c9db6113c537f4f399138869199916b369d9ab8.jar" />
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_1c9db6113c537f4f399138869199916b369d9ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vb/Projects/motionReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/vb/Projects/motionReact/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_befe1d8a57f3748bea5acf7cbcd01a50288d0d1f.jar" />
     </item>
 
 </items>

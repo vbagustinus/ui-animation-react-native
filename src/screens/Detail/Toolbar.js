@@ -1,7 +1,6 @@
 import React, { PureComponent } from 'react';
 import { Text, View, StyleSheet, TouchableWithoutFeedback } from 'react-native';
-import { MaterialCommunityIcons, Ionicons, Feather } from '@expo/vector-icons';
-
+import Icon from 'react-native-vector-icons/Ionicons'
 import { Row } from '../../components';
 import translateAndOpacity from '../../animations/translateAndOpacity';
 
@@ -16,11 +15,11 @@ class Toolbar extends PureComponent {
           <View>
             <Row style={styles.toolbarContainer}>
               <Row style={styles.backContainer}>
-                <Ionicons name="ios-arrow-back" size={24} color="white" />
+                <Icon name="ios-arrow-back" size={24} color="white" />
                 <Text style={styles.titleBackText}>Back</Text>
               </Row>
               <View style={styles.menuIconContainer}>
-                <Feather name="share" size={24} color="white" />
+              <Icon name="ios-arrow-back" size={24} color="white" />
               </View>
             </Row>
           </View>

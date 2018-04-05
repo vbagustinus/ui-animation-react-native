@@ -6,14 +6,7 @@ import {
   StyleSheet,
   TouchableWithoutFeedback,
 } from 'react-native';
-import {
-  MaterialIcons,
-  MaterialCommunityIcons,
-  SimpleLineIcons,
-  Entypo,
-  Ionicons,
-} from '@expo/vector-icons';
-
+import Icon from 'react-native-vector-icons/Ionicons'
 import { Row } from '../../components';
 import { getPlatformElevation } from '../../utils';
 
@@ -61,19 +54,19 @@ class BottomBar extends PureComponent {
       >
         <Row style={styles.barContainer}>
           <View style={styles.iconContainer}>
-            <SimpleLineIcons name="present" size={24} color="#ddd" />
+          <Icon name="ios-arrow-back" size={24} color="#ddd" />
           </View>
           <View style={styles.iconContainer}>
-            <Entypo name="wallet" size={24} color="#008dff" />
+          <Icon name="ios-arrow-back" size={24} color="#ddd" />
           </View>
           <View style={styles.iconContainer}>
-            <Ionicons name="md-qr-scanner" size={32} color="#ddd" />
+          <Icon name="ios-arrow-back" size={24} color="#ddd" />
           </View>
           <View style={styles.iconContainer}>
-            <MaterialCommunityIcons name="message" size={24} color="#ddd" />
+          <Icon name="ios-arrow-back" size={24} color="#ddd" />
           </View>
           <View style={styles.iconContainer}>
-            <MaterialIcons name="person" size={24} color="#ddd" />
+          <Icon name="ios-arrow-back" size={24} color="#ddd" />
           </View>
         </Row>
       </Animated.View>

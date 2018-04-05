@@ -6,7 +6,7 @@ import {
   StyleSheet,
   InteractionManager,
 } from 'react-native';
-import { SimpleLineIcons } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons'
 
 class Button extends React.PureComponent {
   constructor(props) {
@@ -52,7 +52,7 @@ class Button extends React.PureComponent {
       <Animated.View
         style={[styles.iconContainer, { backgroundColor }, animationStyle]}
       >
-        <SimpleLineIcons name={name} size={24} color="white" />
+        <Icon name="ios-arrow-back" size={24} color="white" />
       </Animated.View>
     );
   }

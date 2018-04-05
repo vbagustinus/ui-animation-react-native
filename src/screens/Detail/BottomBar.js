@@ -1,12 +1,5 @@
 import React, { PureComponent } from 'react';
 import { Text, View, StyleSheet, TouchableWithoutFeedback } from 'react-native';
-import {
-  MaterialIcons,
-  MaterialCommunityIcons,
-  SimpleLineIcons,
-  Entypo,
-  Ionicons,
-} from '@expo/vector-icons';
 
 import Button from './Button';
 import { Row } from '../../components';

@@ -6,7 +6,7 @@ import {
   StyleSheet,
   TouchableWithoutFeedback,
 } from 'react-native';
-import { MaterialCommunityIcons, Ionicons, Feather } from '@expo/vector-icons';
+import Icon from 'react-native-vector-icons/Ionicons'
 
 import { Row } from '../../components';
 import translateAndOpacity from '../../animations/translateAndOpacity';
@@ -23,11 +23,11 @@ class Toolbar extends PureComponent {
           <Animated.View style={animationStyle}>
             <Row style={styles.toolbarContainer}>
               <Row style={styles.backContainer}>
-                <Ionicons name="ios-arrow-back" size={24} color="white" />
+              <Icon name="ios-arrow-back" size={24} color="#ddd" />
                 <Text style={styles.titleBackText}>Back</Text>
               </Row>
               <View style={styles.menuIconContainer}>
-                <Feather name="share" size={24} color="white" />
+              <Icon name="ios-arrow-back" size={24} color="#ddd" />
               </View>
             </Row>
           </Animated.View>
@@ -45,14 +45,10 @@ class Toolbar extends PureComponent {
               <Text style={styles.titleText}>My Checks</Text>
             </View>
             <View style={styles.menuIconContainer}>
-              <Ionicons name="md-menu" size={24} color="#008dff" />
+              <Icon name="md-menu" size={24} color="#008dff" />
             </View>
             <View style={styles.menuIconContainer}>
-              <MaterialCommunityIcons
-                name="file-document"
-                size={24}
-                color="#008dff"
-              />
+            <Icon name="md-menu" size={24} color="#008dff" />
             </View>
           </Row>
         </View>
