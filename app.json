@@ -4,5 +4,7 @@
     "slug": "react-native-motion-example",
     "version": "0.0.1",
     "sdkVersion": "25.0.0"
-  }
+  },
+  "name": "uiinteractionsdetailview",
+  "displayName": "React Native Motion Example"
 }
